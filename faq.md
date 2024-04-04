@@ -6,7 +6,7 @@
 
 設定しましょう．
 
-- windows: C:\Users\【ユーザー名】 \\.gitconfig
+- Windows(wsl):  /home/【ユーザー名】/.ssh/ .gitconfig
 - Mac: /Users/ 【ユーザー名】/.gitconfig
 
 というファイルに，ユーザー名とメールアドレスの設定を書き込んで下さい．
