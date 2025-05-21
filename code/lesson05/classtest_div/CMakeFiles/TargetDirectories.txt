@@ -1,0 +1,3 @@
+/mnt/c/Users/Allin/Desktop/AP_lecture/AP Supplementary/AP2025supplementary/code/lesson05/classtest_div/CMakeFiles/classtest_div.dir
+/mnt/c/Users/Allin/Desktop/AP_lecture/AP Supplementary/AP2025supplementary/code/lesson05/classtest_div/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Allin/Desktop/AP_lecture/AP Supplementary/AP2025supplementary/code/lesson05/classtest_div/CMakeFiles/rebuild_cache.dir
